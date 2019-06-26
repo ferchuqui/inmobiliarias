@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.logo img{
+  width: 100px;
+  height: 50px;
+}
+main{
+  display: flex;
+  text-align: center;
+}
+nav{
+  
+  display: flex;
+  
+}
+h1{
+margin-left: 20px;
+}
+ul{
+  list-style: none;
+  display: inline-flex
+  
+}
+ul a{
+  text-decoration: none;
+  padding-right: 20px;
+}
